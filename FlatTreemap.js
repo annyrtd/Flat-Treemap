@@ -50,7 +50,7 @@ class FlatTreemap {
 		"	stroke-width: 2px;" +
 		"}" +
 		".grandparent rect {" +
-		"	fill: #225d86;" +
+		"	fill: #4E4E4E;" +
 		"}" +
 		"/*" +
 		".grandparent:hover rect {" +
